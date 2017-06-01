@@ -3,7 +3,7 @@ package ByteShortIntLong;
 /**
  * Created by daniel on 5/31/17.
  */
-public class Main {
+public class FloatShortIntLong {
     public static void main(String[] args) {
 
         // int has a width of 32
